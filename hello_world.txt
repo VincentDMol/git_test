@@ -1,1 +1,2 @@
 Hello world, I am now learning how to write in this VSC!
+Figuring out how to add line to GitHub!
