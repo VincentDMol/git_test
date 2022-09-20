@@ -1,2 +1,3 @@
 Hello world, I am now learning how to write in this VSC!
 Figuring out how to add line to GitHub!
+I am not entirely sure what I am doing but this will be a funny message to look back on!
